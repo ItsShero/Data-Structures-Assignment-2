@@ -1,0 +1,6 @@
+The CoffeeQueue has four queues displayed by both JProgressBars and JLabels. In order to add new customers into the queue, you press the spacebar.
+
+The CoffeeQueue also removes customers at a 'random' rate as well. To see this you can continually press space bar and watch as the queue numbers go down.
+In order to "wipe" the customers in queue, click and drag the mouse until the progress bars are empty. 
+
+Customers enter each queue depending on which queue is the smallest so no queue gets overfilled while the others are low. This is for effeincy for the cafe.
